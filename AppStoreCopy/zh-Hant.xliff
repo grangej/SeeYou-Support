@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+    <file target-language="zh-Hant" original="en.lproj/AppStoreCopy.strings" datatype="cpp" source-language="en" tool-id="loco">
+        <header>
+            <tool tool-name="Loco for XCode" tool-company="Loco" tool-id="loco" tool-version="1.0.18 20171009-1"/>
+        </header>
+        <body>
+            <trans-unit id="Description">
+                <source>Have you ever wanted to countdown to a date in the future? Wanted to do so in another time zone? Wanted it to look beautiful too? Then this is the app for you.
+
+Features:
+
+- Set date and time in future or past with time zone support
+- Change background picture
+- Count down or up in seconds or days / hours / mins / seconds</source>
+                <note>AppStore Description</note>
+            </trans-unit>
+            <trans-unit id="Keywords">
+                <source>love, countdown, time, date, long distance love</source>
+                <note>AppStore Keywords</note>
+            </trans-unit>
+            <trans-unit id="whats-new">
+                <source>- Bug fixes :-)</source>
+                <note>AppStore Whats new text</note>
+            </trans-unit>
+            <trans-unit id="Title">
+                <source>See You</source>
+                <note>AppStore Title</note>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
