@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+    <file source-language="en" datatype="plaintext" target-language="es" original="SeeYou/Base.lproj/LaunchScreen.storyboard">
+        <header>
+            <tool build-num="9A235" tool-version="9.0" tool-id="com.apple.dt.xcode" tool-name="Xcode"/>
+        </header>
+        <body>
+            <trans-unit id="MIf-PO-0bj.text">
+                <source>再会</source>
+                <note>Class = "UILabel"; text = "再会"; ObjectID = "MIf-PO-0bj";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file source-language="en" datatype="plaintext" target-language="es" original="SeeYou/Base.lproj/Main.storyboard">
+        <header>
+            <tool build-num="9A235" tool-version="9.0" tool-id="com.apple.dt.xcode" tool-name="Xcode"/>
+        </header>
+        <body>
+            <trans-unit id="5eb-QV-C45.normalTitle">
+                <source>Cancel</source>
+                <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "5eb-QV-C45";</note>
+            </trans-unit>
+            <trans-unit id="BZu-Un-Df5.text">
+                <source>See You</source>
+                <note>Class = "UILabel"; text = "See You"; ObjectID = "BZu-Un-Df5";</note>
+            </trans-unit>
+            <trans-unit id="EOj-vE-Uc8.normalTitle">
+                <source>Save</source>
+                <note>Class = "UIButton"; normalTitle = "Save"; ObjectID = "EOj-vE-Uc8";</note>
+            </trans-unit>
+            <trans-unit id="Gsm-3q-0M5.text">
+                <source>Press hard on the city to change</source>
+                <note>Class = "UILabel"; text = "Press hard on the city to change"; ObjectID = "Gsm-3q-0M5";</note>
+            </trans-unit>
+            <trans-unit id="K60-eK-0JA.text">
+                <source>Days</source>
+                <note>Class = "UILabel"; text = "Days "; ObjectID = "K60-eK-0JA";</note>
+            </trans-unit>
+            <trans-unit id="PVN-ev-NkV.segmentTitles[0]">
+                <source>California</source>
+                <note>Class = "UISegmentedControl"; PVN-ev-NkV.segmentTitles[0] = "California"; ObjectID = "PVN-ev-NkV";</note>
+            </trans-unit>
+            <trans-unit id="PVN-ev-NkV.segmentTitles[1]">
+                <source>Japan</source>
+                <note>Class = "UISegmentedControl"; PVN-ev-NkV.segmentTitles[1] = "Japan"; ObjectID = "PVN-ev-NkV";</note>
+            </trans-unit>
+            <trans-unit id="PVN-ev-NkV.segmentTitles[2]">
+                <source>New York</source>
+                <note>Class = "UISegmentedControl"; PVN-ev-NkV.segmentTitles[2] = "New York"; ObjectID = "PVN-ev-NkV";</note>
+            </trans-unit>
+            <trans-unit id="SF0-dz-ncw.text">
+                <source>2</source>
+                <note>Class = "UILabel"; text = "2"; ObjectID = "SF0-dz-ncw";</note>
+            </trans-unit>
+            <trans-unit id="ZbW-Ti-fvj.text">
+                <source>214121</source>
+                <note>Class = "UILabel"; text = "214121"; ObjectID = "ZbW-Ti-fvj";</note>
+            </trans-unit>
+            <trans-unit id="Zyk-4w-tAV.text">
+                <source>10</source>
+                <note>Class = "UILabel"; text = "10"; ObjectID = "Zyk-4w-tAV";</note>
+            </trans-unit>
+            <trans-unit id="iwr-3J-rGi.normalTitle">
+                <source>Settings</source>
+                <note>Class = "UIButton"; normalTitle = "Settings"; ObjectID = "iwr-3J-rGi";</note>
+            </trans-unit>
+            <trans-unit id="nbg-vS-EPM.text">
+                <source>34</source>
+                <note>Class = "UILabel"; text = "34"; ObjectID = "nbg-vS-EPM";</note>
+            </trans-unit>
+            <trans-unit id="o8S-1J-xWZ.text">
+                <source>Seconds</source>
+                <note>Class = "UILabel"; text = "Seconds"; ObjectID = "o8S-1J-xWZ";</note>
+            </trans-unit>
+            <trans-unit id="u5x-5y-GfT.text">
+                <source>Minutes</source>
+                <note>Class = "UILabel"; text = "Minutes"; ObjectID = "u5x-5y-GfT";</note>
+            </trans-unit>
+            <trans-unit id="zUV-Gx-UEZ.text">
+                <source>Hours</source>
+                <note>Class = "UILabel"; text = "Hours"; ObjectID = "zUV-Gx-UEZ";</note>
+            </trans-unit>
+        </body>
+    </file>
+    <file source-language="en" datatype="plaintext" target-language="es" original="SeeYou/Info.plist">
+        <header>
+            <tool build-num="9A235" tool-version="9.0" tool-id="com.apple.dt.xcode" tool-name="Xcode"/>
+        </header>
+        <body>
+            <trans-unit id="CFBundleDisplayName">
+                <source>See You</source>
+            </trans-unit>
+            <trans-unit id="CFBundleName">
+                <source>See You</source>
+            </trans-unit>
+            <trans-unit id="NSCameraUsageDescription">
+                <source>See You needs to access your camera</source>
+            </trans-unit>
+            <trans-unit id="NSPhotoLibraryUsageDescription">
+                <source>See You needs to access your photos</source>
+            </trans-unit>
+        </body>
+    </file>
+    <file source-language="en" datatype="plaintext" target-language="es" original="SeeYou/Localizable.strings">
+        <header>
+            <tool build-num="9A235" tool-version="9.0" tool-id="com.apple.dt.xcode" tool-name="Xcode"/>
+        </header>
+        <body/>
+    </file>
+</xliff>
