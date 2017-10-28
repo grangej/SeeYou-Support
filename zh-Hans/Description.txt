@@ -1,7 +1,0 @@
-Have you ever wanted to countdown to a date in the future? Wanted to do so in another time zone? Wanted it to look beautiful too? Then this is the app for you.
-
-Features:
-
-- Set date and time in future or past with time zone support
-- Change background picture
-- Count down or up in seconds or days / hours / mins / seconds
