@@ -7,6 +7,7 @@
         <body>
             <trans-unit id="MIf-PO-0bj.text">
                 <source>再会</source>
+                <target>再会</target>
                 <note>Class = "UILabel"; text = "再会"; ObjectID = "MIf-PO-0bj";</note>
             </trans-unit>
         </body>
@@ -18,14 +19,17 @@
         <body>
             <trans-unit id="5eb-QV-C45.normalTitle">
                 <source>Cancel</source>
+                <target>Cancelar</target>
                 <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "5eb-QV-C45";</note>
             </trans-unit>
             <trans-unit id="BZu-Un-Df5.text">
                 <source>See You</source>
+                <target>See You</target>
                 <note>Class = "UILabel"; text = "See You"; ObjectID = "BZu-Un-Df5";</note>
             </trans-unit>
             <trans-unit id="EOj-vE-Uc8.normalTitle">
                 <source>Save</source>
+                <target>Ahorrar</target>
                 <note>Class = "UIButton"; normalTitle = "Save"; ObjectID = "EOj-vE-Uc8";</note>
             </trans-unit>
             <trans-unit id="Gsm-3q-0M5.text">
@@ -34,50 +38,62 @@
             </trans-unit>
             <trans-unit id="K60-eK-0JA.text">
                 <source>Days</source>
+                <target>Dias</target>
                 <note>Class = "UILabel"; text = "Days "; ObjectID = "K60-eK-0JA";</note>
             </trans-unit>
             <trans-unit id="PVN-ev-NkV.segmentTitles[0]">
                 <source>California</source>
+                <target>California</target>
                 <note>Class = "UISegmentedControl"; PVN-ev-NkV.segmentTitles[0] = "California"; ObjectID = "PVN-ev-NkV";</note>
             </trans-unit>
             <trans-unit id="PVN-ev-NkV.segmentTitles[1]">
                 <source>Japan</source>
+                <target>Japón</target>
                 <note>Class = "UISegmentedControl"; PVN-ev-NkV.segmentTitles[1] = "Japan"; ObjectID = "PVN-ev-NkV";</note>
             </trans-unit>
             <trans-unit id="PVN-ev-NkV.segmentTitles[2]">
                 <source>New York</source>
+                <target>Nueva York</target>
                 <note>Class = "UISegmentedControl"; PVN-ev-NkV.segmentTitles[2] = "New York"; ObjectID = "PVN-ev-NkV";</note>
             </trans-unit>
             <trans-unit id="SF0-dz-ncw.text">
                 <source>2</source>
+                <target>2</target>
                 <note>Class = "UILabel"; text = "2"; ObjectID = "SF0-dz-ncw";</note>
             </trans-unit>
             <trans-unit id="ZbW-Ti-fvj.text">
                 <source>214121</source>
+                <target>214121</target>
                 <note>Class = "UILabel"; text = "214121"; ObjectID = "ZbW-Ti-fvj";</note>
             </trans-unit>
             <trans-unit id="Zyk-4w-tAV.text">
                 <source>10</source>
+                <target>10</target>
                 <note>Class = "UILabel"; text = "10"; ObjectID = "Zyk-4w-tAV";</note>
             </trans-unit>
             <trans-unit id="iwr-3J-rGi.normalTitle">
                 <source>Settings</source>
+                <target>Ajustes</target>
                 <note>Class = "UIButton"; normalTitle = "Settings"; ObjectID = "iwr-3J-rGi";</note>
             </trans-unit>
             <trans-unit id="nbg-vS-EPM.text">
                 <source>34</source>
+                <target>34</target>
                 <note>Class = "UILabel"; text = "34"; ObjectID = "nbg-vS-EPM";</note>
             </trans-unit>
             <trans-unit id="o8S-1J-xWZ.text">
                 <source>Seconds</source>
+                <target>Secundos</target>
                 <note>Class = "UILabel"; text = "Seconds"; ObjectID = "o8S-1J-xWZ";</note>
             </trans-unit>
             <trans-unit id="u5x-5y-GfT.text">
                 <source>Minutes</source>
+                <target>Minutos</target>
                 <note>Class = "UILabel"; text = "Minutes"; ObjectID = "u5x-5y-GfT";</note>
             </trans-unit>
             <trans-unit id="zUV-Gx-UEZ.text">
                 <source>Hours</source>
+                <target>Horas</target>
                 <note>Class = "UILabel"; text = "Hours"; ObjectID = "zUV-Gx-UEZ";</note>
             </trans-unit>
         </body>

@@ -13,14 +13,25 @@ Features:
 - Set date and time in future or past with time zone support
 - Change background picture
 - Count down or up in seconds or days / hours / mins / seconds</source>
+                <target>¿Alguna vez has querido contar con una fecha en el futuro?
+¿Quisiera hacerlo en otro huso horario? ¿Quisiera mirar hermoso también? Entonces esta es la aplicación para ti.
+
+Caracteristicas:
+Fijar fecha y hora
+En el futuro con soporte de zonas horarias
+Cambiar foto de antecedentes
+Cuenta regresiva en segundos o di'as/ horas / minutos / segundos</target>
                 <note>AppStore Description</note>
             </trans-unit>
             <trans-unit id="Keywords">
                 <source>love, countdown, time, date, long distance love</source>
+                <target>Amor, cuenta regresiva, hora, fecha, amor a distancia
+</target>
                 <note>AppStore Keywords</note>
             </trans-unit>
             <trans-unit id="whats-new">
                 <source>- Bug fixes :-)</source>
+                <target>- Corrección de errores :-)</target>
                 <note>AppStore Whats new text</note>
             </trans-unit>
             <trans-unit id="Title">
